@@ -33,8 +33,8 @@ https://eur-lex.europa.eu/eli/reg/2024/1689/2026-07-27/eng/pdf
 
 ## Где ещё
 
-- YouTube: [ссылка]
-- Telegram: [ссылка]
+- YouTube: https://www.youtube.com/channel/UC1q7L2FzD4_KxyF_04dUAzw
+- Telegram: @eu_govtech
 
 ## Лицензия
 
